@@ -1,4 +1,1 @@
-Enter Employee Name: John
-Enter Employee ID: E123
-Enter Department: HR
-Employee E123 - John (HR Department)
+Java Program to accept employee information using Scanner and process command-line arguments for batch updates.
